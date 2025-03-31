@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mateo Bengoa</h1>
 <h3 align="center">An independent developer born in Uruguay.</h3>
 
--  🔭 I’m currently working on [SkillNeed](placeholder.com)
 
--  🌱 I’m currently learning **Next.js & Cybersecurity**
-
--  💻 A more extended portfolio of mine [portfolio.com](portfolio.com)
-
--  📫 You can always contact me at **placeholder@gmail.com**
+-  🌱 I’m currently learning **Next.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
